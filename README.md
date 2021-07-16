@@ -37,7 +37,7 @@ I then placed the markers on the map.
 
 Finally, I created a legend.
 
-![legend1.PNG](Resources/legend1.PNG)
+![legend1.PNG](https://github.com/perryabdulkadir/Mapping_Earthquakes/blob/main/Resources/legend1.png)
 
 That yields a map that looks like this.
 
