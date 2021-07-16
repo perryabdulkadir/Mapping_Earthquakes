@@ -1,10 +1,10 @@
 # Mapping Earthquakes
-Using OpenWeather, Google Maps API, Python, and the gmaps Python package to build a vacation itinerary selection app
+
 
 ## Overview of Analysis
 
 
-## Resources
+### Resources
 Software: Python 3.8.6, Jupyter Notebook
 
 Python packages: 
