@@ -5,9 +5,9 @@
 
 
 ### Resources
-Software: Python 3.8.6, Jupyter Notebook
+Software: Javascript
 
-Python packages: 
+Javascript libraries: Leaflet.js
 
 APIs: 
 
