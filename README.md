@@ -5,7 +5,7 @@
 
 
 ### Resources
-Software: Javascript
+Software/Languages: Javascript, HTML, CSS
 
 Javascript libraries: Leaflet.js
 
