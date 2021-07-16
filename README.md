@@ -9,7 +9,6 @@ Software/Languages: Javascript, HTML, CSS, Mapbox Styles API
 
 Javascript libraries: Leaflet.js
 
-APIs: 
 
 ## Building the App
 
@@ -56,13 +55,9 @@ When only the major earthquakes layer is selected, this is the resulting map.
 ![map2.PNG](Resources/map2.PNG)
 
 
-### Adding an Additional Map Style
-
-
-
 
 ## Summary
-
+This method can be used to quickly create interactive maps with multiple layers that update in real-time.
 
 
 -----
