@@ -1,8 +1,8 @@
 # Mapping Earthquakes
-
+Interactive map app that displays earthquake data in real-time
 
 ## Overview of Analysis
-
+In this project, I used Javascript, HTML, CSS, and Leaflet.js to create a map that displays earthquake data. The map has multiple layers of data that can be toggled on or off by the user: tectonic plate lines, all earthquakes, and major earthquakes. The user can also select a sattelite map, street map, or dark mode app. 
 
 ### Resources
 Software/Languages: Javascript, HTML, CSS, Mapbox Styles API
