@@ -28,6 +28,11 @@ Nested within the d3.json callback, the function styleInfo is used to set the si
 
 ![styleInfo.PNG](Resources/styleInfo.PNG)
 
+That yields a map that looks like this.
+
+![map1.PNG](Resources/map1.PNG)
+
+
 ### Adding Major Earthquake Data
 
 
