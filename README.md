@@ -14,6 +14,13 @@ APIs:
 ## Building the App
 
 ### Adding Tectonic Plate Data
+The first portion of our Javascript code prepares the three base layers that will be used. 
+
+![background_tiles.PNG](Resources/background_tiles.PNG)
+
+Next, I added a second layer group variable for the tectonic plate data before adding a reference to the tectonic plate data to the overlay object.
+
+![layer_group_variable.PNG](Resources/layer_group_variable.PNG)
 
 
 ### Adding Major Earthquake Data
