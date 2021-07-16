@@ -25,7 +25,7 @@ After this, I used the d3.json() function to call to the tectonic plate data hos
 Nested within the d3.json callback, the function styleInfo is used to set the size and color of earthquakes based on their magnitude. 
 
 
-![styleInfo.PNG](Resources/styleInfo.PNG)
+![styleInfo.PNG](https://github.com/perryabdulkadir/Mapping_Earthquakes/blob/main/Resources/styleInfo.png)
 
 The functions getColor and getRadius are, in turn, used by styleInfo. 
 
