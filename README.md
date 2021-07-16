@@ -33,7 +33,7 @@ The functions getColor and getRadius are, in turn, used by styleInfo.
 
 I then placed the markers on the map.
 
-![markers1.PNG](Resources/markers1.PNG)
+![markers1.PNG](https://github.com/perryabdulkadir/Mapping_Earthquakes/blob/main/Resources/markers1.png)
 
 Finally, I created a legend.
 
