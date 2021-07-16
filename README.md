@@ -1,4 +1,4 @@
-# World Weather Analysis
+# Mapping Earthquakes
 Using OpenWeather, Google Maps API, Python, and the gmaps Python package to build a vacation itinerary selection app
 
 ## Overview of Analysis
@@ -7,27 +7,26 @@ Using OpenWeather, Google Maps API, Python, and the gmaps Python package to buil
 ## Resources
 Software: Python 3.8.6, Jupyter Notebook
 
-Python packages: citipy, gmaps, requests, pandas, matplotlib, numpy, datetime
+Python packages: 
 
-APIs: OpenWeatherMap, Google Maps
+APIs: 
 
 ## Building the App
 
-### Creating the Weather Database
+### Adding Tectonic Plate Data
 
 
+### Adding Major Earthquake Data
 
-### Creating a Customer Travel Destinations Map
 
-
-### Creating a Travel Itinerary Map
+### Adding an Additional Map Style
 
 
 
 
 ## Summary
 
-In my opinion, a similar method could be used on the backend to build an app that would allow end-users to narrow down their vacation options and itineraries. My only suggestion would be to use a more curated list of cities instead of choosing them randomly based on latitude and longitude. 
+
 
 -----
 
