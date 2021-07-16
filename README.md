@@ -15,7 +15,7 @@ Javascript libraries: Leaflet.js
 ### Adding Tectonic Plate Data
 The first portion of our Javascript code prepares the three base layers that will be used. 
 
-![background_tiles.PNG](Resources/background_tiles.PNG)
+![background_tiles.PNG](https://github.com/perryabdulkadir/Mapping_Earthquakes/blob/main/Resources/background_tiles.png)
 
 Next, I added a second layer group variable for the tectonic plate data before adding a reference to the tectonic plate data to the overlay object.
 
