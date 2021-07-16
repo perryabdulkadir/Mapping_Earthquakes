@@ -28,6 +28,18 @@ Nested within the d3.json callback, the function styleInfo is used to set the si
 
 ![styleInfo.PNG](Resources/styleInfo.PNG)
 
+The functions getColor and getRadius are, in turn, used by styleInfo. 
+
+![get_color_get_radius.PNG](Resources/get_color_get_radius.PNG)
+
+I then placed the markers on the map.
+
+![markers1.PNG](Resources/markers1.PNG)
+
+Finally, I created a legend.
+
+![legend1.PNG](Resources/legend1.PNG)
+
 That yields a map that looks like this.
 
 ![map1.PNG](Resources/map1.PNG)
