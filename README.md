@@ -5,7 +5,7 @@
 
 
 ### Resources
-Software/Languages: Javascript, HTML, CSS
+Software/Languages: Javascript, HTML, CSS, Mapbox Styles API
 
 Javascript libraries: Leaflet.js
 
