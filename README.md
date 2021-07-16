@@ -41,18 +41,18 @@ Finally, I created a legend.
 
 That yields a map that looks like this.
 
-![map1.PNG](Resources/map1.PNG)
+![map1.PNG](https://github.com/perryabdulkadir/Mapping_Earthquakes/blob/main/Resources/map1.png)
 
 
 ### Adding Major Earthquake Data
 
 The process of creating a map layer with only severe earthquake data (Richter >4) is a simple matter of refactoring the code above. Almost everything remains the same except the getColor and getRadius functions.
 
-![get_color2.PNG](Resources/get_color2.PNG)
+![get_color2.PNG](https://github.com/perryabdulkadir/Mapping_Earthquakes/blob/main/Resources/get_color2.png)
 
 When only the major earthquakes layer is selected, this is the resulting map.
 
-![map2.PNG](Resources/map2.PNG)
+![map2.PNG](https://github.com/perryabdulkadir/Mapping_Earthquakes/blob/main/Resources/map2.png)
 
 
 
