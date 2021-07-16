@@ -22,7 +22,11 @@ Next, I added a second layer group variable for the tectonic plate data before a
 
 ![layer_group_variable.PNG](Resources/layer_group_variable.PNG)
 
-After this, I used the d3.json() function to call to the tectonic plate data hosted by Github user fraxen (here)[https://github.com/fraxen/tectonicplates].
+After this, I used the d3.json() function to call to the tectonic plate data hosted by Github user fraxen [here](https://github.com/fraxen/tectonicplates).
+Nested within the d3.json callback, the function styleInfo is used to set the size and color of earthquakes based on their magnitude. 
+
+
+![styleInfo.PNG](Resources/styleInfo.PNG)
 
 ### Adding Major Earthquake Data
 
