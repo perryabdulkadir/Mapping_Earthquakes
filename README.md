@@ -19,7 +19,7 @@ The first portion of our Javascript code prepares the three base layers that wil
 
 Next, I added a second layer group variable for the tectonic plate data before adding a reference to the tectonic plate data to the overlay object.
 
-![layer_group_variable.PNG](Resources/layer_group_variable.PNG)
+![layer_group_variable.PNG](https://github.com/perryabdulkadir/Mapping_Earthquakes/blob/main/Resources/layer_group_variable.png)
 
 After this, I used the d3.json() function to call to the tectonic plate data hosted by Github user fraxen [here](https://github.com/fraxen/tectonicplates).
 Nested within the d3.json callback, the function styleInfo is used to set the size and color of earthquakes based on their magnitude. 
