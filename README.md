@@ -47,6 +47,14 @@ That yields a map that looks like this.
 
 ### Adding Major Earthquake Data
 
+The process of creating a map layer with only severe earthquake data (Richter >4) is a simple matter of refactoring the code above. Almost everything remains the same except the getColor and getRadius functions.
+
+![get_color2.PNG](Resources/get_color2.PNG)
+
+When only the major earthquakes layer is selected, this is the resulting map.
+
+![map2.PNG](Resources/map2.PNG)
+
 
 ### Adding an Additional Map Style
 
