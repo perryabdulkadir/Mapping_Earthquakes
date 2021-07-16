@@ -29,7 +29,7 @@ Nested within the d3.json callback, the function styleInfo is used to set the si
 
 The functions getColor and getRadius are, in turn, used by styleInfo. 
 
-![get_color_get_radius.PNG](Resources/get_color_get_radius.PNG)
+![get_color_get_radius.PNG](https://github.com/perryabdulkadir/Mapping_Earthquakes/blob/main/Resources/get_color_get_radius.png)
 
 I then placed the markers on the map.
 
